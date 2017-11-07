@@ -1,4 +1,4 @@
-This is a googlemap with current location using [Ionic](http://ionicframework.com/docs/) projects.
+This is a googlemap with current location using [Ionic](http://ionicframework.com/docs/) framework.
 
 Follow these instructions to deploy:
 
@@ -17,7 +17,7 @@ Follow these instructions to deploy:
       $ ionic cordova platform add android
    ```
 
-     or
+   
    ```sh
       $ ionic cordova platform add ios
    ```
